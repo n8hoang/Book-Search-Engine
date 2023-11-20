@@ -10,13 +10,14 @@ This project transforms a fully functional Google Books API search engine into a
 - [License](#license)
 - [Features](#features)
 - [Deployment](#deployment)
+- [Contributing](#contributing)
 - [Questions](#questions)
 
 ## Usage
 1.Sign Up
 2.Search for books
 3.Add them to your library!
-(./appss.png)
+![](./appss.png)
 
 ## License
 
@@ -31,6 +32,10 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Deployment
 
 The application is deployed on Heroku, demonstrating its functionality in a live setting. You can access the deployed application [here](https://secret-sea-03536-7d5b0a4f5e27.herokuapp.com/).
+
+## Contributing
+
+Code by UCLA extension.
 
 ## Questions
 
